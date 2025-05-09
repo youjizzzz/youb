@@ -1,4 +1,5 @@
-
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](http://a.d44k.cc/app.html)
+<br></br><br></br><br></br>
 def generate_story(data):
     """根据用户输入生成故事"""
     character = data['character']
